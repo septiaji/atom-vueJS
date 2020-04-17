@@ -1,4 +1,4 @@
-# bisokop
+# atomicity
 
 ## Project setup
 ```
